@@ -60,6 +60,6 @@
     Object-fit :content/cover
 } */
  .image{
-    height:"50px";
-    width: "50px";
+    height:50px;
+    width: 50px;
  }
